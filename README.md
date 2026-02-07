@@ -11,5 +11,14 @@ Click the link or the badge below to open the app:
 
 [Open App](https://assistansiri255-fake-news-detector-app-6fdbgw.streamlit.app/)
 
+# Features
+1.Predicts news authenticity (FAKE / REAL) instantly
+2.Uses Passive Aggressive Classifier for fast and accurate results
+3.Interactive web interface with Streamlit
 
-
+# Libraries Used
+1.streamlit
+2.pandas
+3.scikit-learn
+4.numpy
+5.joblib
