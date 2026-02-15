@@ -1,4 +1,4 @@
- About the App
+ 
 # Fake News Detection App
 
 This is a **Fake News Detection** app built using  **Python** and **Streamlit**.  
